@@ -1,0 +1,21 @@
+Balance Sheet
+
+Asset
+House PJ - 500000
+House KL - 800000
+
+Liabilities
+Car - 50000
+
+Debt
+Loan - 1000000
+
+Tax
+Revenue tax - 250000
+
+Utilities
+Electric - 5000
+Water - 2000
+
+Shareholder's Equity
+Director - 500000
